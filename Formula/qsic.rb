@@ -7,7 +7,7 @@ class Qsic < Formula
   homepage "https://github.com/cottonBuddha/Qsic"
   url "https://github.com/cottonBuddha/Qsic/releases/download/v0.1.1/qsic.tar.gz"
   version "0.1.1"
-  sha256 "f9fce5c1474abb0c7b55c3934946a22040aeb166a46a54b23bcd2a399ed16a23"
+  sha256 "31d1d6ed666d5571a4d6ba65ad92a24b75bbcac1016e8e52a4499dd5fdf7c7b2"
 
   def install
     bin.install "Qsic"
