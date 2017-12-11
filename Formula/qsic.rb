@@ -5,8 +5,8 @@
 class Qsic < Formula
   desc "A music player cli by cotton"
   homepage "https://github.com/cottonBuddha/Qsic"
-  url "https://github.com/cottonBuddha/Qsic/releases/download/v0.1.1/qsic.tar.gz"
-  version "0.1.1"
+  url "https://github.com/cottonBuddha/Qsic/releases/download/v0.1.2/qsic.tar.gz"
+  version "0.1.2"
   sha256 "31d1d6ed666d5571a4d6ba65ad92a24b75bbcac1016e8e52a4499dd5fdf7c7b2"
 
   def install
